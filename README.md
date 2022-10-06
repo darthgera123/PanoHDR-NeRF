@@ -13,7 +13,7 @@
 <p align="center"><sup>2</sup>Université Laval</p>
 <hr>
 <div align = "center">
-<img src="teaser.jpg" width="900px" height="450px">
+<img src="teaser.jpg" width="800px" height="400px">
 </div>
 <div align="center">
   <span>
