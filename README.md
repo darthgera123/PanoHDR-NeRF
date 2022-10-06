@@ -12,7 +12,9 @@
 <p align="center"><sup>1</sup>CVIT, IIIT Hyderabad</p>
 <p align="center"><sup>2</sup>Université Laval</p>
 <hr>
-<img src="main.png" width="900px" height="450px">
+<div align = "center">
+<img src="teaser.jpg" width="900px" height="450px">
+</div>
 <div align="center">
   <span>
     <a href="https://lvsn.github.io/PanoHDR-NeRF/">[Project page]</a>
