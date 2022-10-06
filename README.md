@@ -9,8 +9,8 @@
     <a href="http://www.jflalonde.ca/">Jean-François Lalonde<sup>2</sup></a>
   </span>
 </div>
-<p align="left"><sup>1</sup>CVIT, IIIT Hyderabad</p>
-<p align="right"><sup>2</sup>Université Laval</p>
+<p align="center"><sup>1</sup>CVIT, IIIT Hyderabad</p>
+<p align="center"><sup>2</sup>Université Laval</p>
 <hr>
 <img src="main.png" width="900px" height="450px">
 <div align="center">
