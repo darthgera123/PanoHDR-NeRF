@@ -29,12 +29,7 @@
   We present PanoHDR-NeRF, a novel pipeline to casually capture a plausible full HDR radiance field of a large indoor scene without elaborate setups or complex capture protocols. First, a user captures a low dynamic range (LDR) omnidirectional video of the scene by freely waving an off-the-shelf camera around the scene. Then, an LDR2HDR network uplifts the captured LDR frames to HDR, subsequently used to train a tailored NeRF++ model. The resulting PanoHDR-NeRF pipeline can estimate full HDR panoramas from any location of the scene. Through experiments on a novel test dataset of a variety of real scenes with the ground truth HDR radiance captured at locations not seen during training, we show that PanoHDR-NeRF predicts plausible radiance from any scene point. We also show that the HDR images produced by PanoHDR-NeRF can synthesize correct lighting effects, enabling the augmentation of indoor scenes with synthetic objects that are lit correctly.
 </p>
 
-# Code Instructions
-## Prerequisites
-This code was tested on UBuntu 20.04, with Python 3.8. For running the code we used `pytorch 3.8`. Please check `requirements.txt` for other dependencies<br>
+# LDR2HDR
+Instructions for running LDR2HDR module are present in `LANet` directory. 
 
-## Preprocess the Data
-## Running code
-
-
-## Training Data
+# PanoHDR-NeRF
