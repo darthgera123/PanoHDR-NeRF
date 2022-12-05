@@ -33,3 +33,4 @@
 Instructions for running LDR2HDR module are present in `LANet` directory. 
 
 # PanoHDR-NeRF
+Instructions for running and installing NeRF module is present in `PanoHDR_NeRF` directory.
