@@ -10,4 +10,4 @@ Make sure all files are in `*.hdr` format
 + Download https://github.com/gfxdisp/pu21.git
 + `mv pupsnr pu21/matlab/examples`
 + `cd pu21/matlab/examples`
-+ `matlab -batch "prog <gt_dir> <pred_dir> `
++ `matlab -batch "pupsnr <gt_dir> <pred_dir> `
