@@ -1,3 +1,7 @@
+"""
+Script to render IBL renders
+Usage: blender <blend file> -P hdr_blender.py -b
+"""
 import bpy
 from mathutils import Matrix, Vector, Euler
 import cycles
